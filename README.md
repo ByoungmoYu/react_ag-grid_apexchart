@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## clone this source, you need to npm insall 
+## clone this source, install package
 ### `npm install`
 
 ## Available Scripts
