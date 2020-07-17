@@ -1,9 +1,20 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## If you clone this source, you need to npm insall 
+## clone this source, you need to npm insall 
 ### `npm install`
 
-## Before starting this program, it neees to install others
+## Available Scripts
+
+In the project directory, you can run:
+
+### `yarn start` or `npm start`
+
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+
+
+## for this program, it neees to install others
 
 For ag-grid and ag-grid-react
 ### `npm install --save ag-grid-community ag-grid-react`
@@ -19,13 +30,3 @@ For material-ui
 
 For csv file reader
 ### `npm install react-csv-reader`
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start` or `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
