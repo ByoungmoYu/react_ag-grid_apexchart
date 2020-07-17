@@ -1,6 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Before starting this program, it neees to install others.
+## If you clone this source, you need to npm insall 
+### `npm install`
+
+## Before starting this program, it neees to install others
+
 For ag-grid and ag-grid-react
 ### `npm install --save ag-grid-community ag-grid-react`
 
@@ -15,7 +19,6 @@ For material-ui
 
 For csv file reader
 ### `npm install react-csv-reader`
-
 
 ## Available Scripts
 
