@@ -1,0 +1,27 @@
+﻿Media Type,Traffic Source,Geo,Cost,Impressions,Clicks,Conversions
+mediaType,trafficSource,geo,cost,impressions,clicks,conversions
+Digital,Google Analytics,Canada,3453.00,123948,28508,0.23
+Display,Google Ads,USA,252354.00,432223,185856,0.43
+Display,Facebook Pages,USA,645.00,22085,12368,0.56
+Print,Facebook Ads,USA,67689.00,457976,403019,0.88
+Display,Youtube,Korea,243543.00,43234,1729,0.04
+Digital,Snapchat,Canada,51204.08,34578,692,0.02
+Banner,LinkedIn,UK,12346.00,43909,10099,0.23
+Banner,Twitter,USA,448.00,4445221,3378368,0.76
+Print,TikTok,UK,239405.00,8403972,252119,0.03
+Print,Bing,Australia,4590.00,44902,15267,0.34
+Digital,AdRoll,China,39284.00,789087,441889,0.56
+Print,Aggregate,China,30890.00,456568,31960,0.07
+Banner,CRM,Canada,51935.13,124049,9924,0.08
+Display,Custom 1,Egypt,78789.00,2074105,186669,0.09
+Banner,Custom 2,Canada,50473.02,2200936,198084,0.09
+Banner,Twitter,Lebanon,49741.96,2327767,1000940,0.43
+Banner,Facebook Ads,USA,49010.90,24545,13500,0.55
+Print,Facebook Ads,Koera,48279.85,754324,67889,0.09
+Digital,Bing,Germany,47548.79,35867,23314,0.65
+Display,Google Ads,Japan,46817.73,423536,190591,0.45
+Display,Google Analytics,Sweden,46086.68,4596192,1286934,0.28
+Digital,Youtube,UAE,45355.62,347786,264317,0.76
+Print,Google Ads,Qatar,44624.56,23457876,10556044,0.45
+Print,Google Ads,Canada,43893.50,1221235,293096,0.24
+Print,Snapchat,Canada,43162.45,23564,7305,0.31
